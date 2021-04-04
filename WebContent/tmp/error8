@@ -1,0 +1,7 @@
+file8.cpp: In function ‘int main()’:
+file8.cpp:8:23: error: expected ‘}’ at end of input
+    8 |  cout << a + b << endl;
+      |                       ^
+file8.cpp:4:12: note: to match this ‘{’
+    4 | int main() {
+      |            ^

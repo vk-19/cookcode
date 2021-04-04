@@ -1,0 +1,4 @@
+file1.cpp: In function ‘int main()’:
+file1.cpp:5:10: warning: division by zero [-Wdiv-by-zero]
+    5 | cout << 4/0;
+      |         ~^~
